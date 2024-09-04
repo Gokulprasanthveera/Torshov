@@ -1,0 +1,47 @@
+.main{
+    background: url(./images/swithzer.jpg);
+    background-size: cover;
+    padding: 150px 0 240px 0;
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    background-color: #B0EBB4;
+}
+.img{
+    margin-top: 100px;
+    width: 300px;
+    height: 200px;
+    border-radius: 500%;
+}
+.all{
+    text-align: center;
+    border-radius: 100px;
+
+}
+.card {
+    display: flex;
+    border: 2px solid brown;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    background-color: rgb(180, 127, 127);
+}
+
+#nick{
+    width: 150px;
+    height: 250px;
+    margin: 15px 10px;
+    border-radius: 10px;
+}
+.body-sub{
+    margin: 12px 50px;
+}
+
+.body{
+    background-color: #BFF6C3;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
